@@ -26,11 +26,8 @@ class Set extends RuntimeException
 {
 	public static void m1() throws Set
 	{
-		System.out.println("sadad");
+		System.out.println("m1");
 		throw new ArithmeticException();
-		
-		
-		
 	}
 }
 
