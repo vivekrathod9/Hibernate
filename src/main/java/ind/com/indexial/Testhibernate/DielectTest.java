@@ -29,7 +29,7 @@ class Set extends RuntimeException
 		System.out.println("m1");
 		System.out.println("m4");
 		throw new ArithmeticException();
-	
+	System.out.println("m99");
 	
 	}
 }
